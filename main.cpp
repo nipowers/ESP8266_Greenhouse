@@ -12,6 +12,10 @@
 
 // Modified by Nicholas Powers for Arrow Electronics to function as a simple
 // automated green house. Still needs a lot of polish but it functions.
+
+// Use with Adafruit config.h to setup wifi and Adafruit.IO connection
+// https://github.com/adafruit/Adafruit_IO_Arduino/blob/master/examples/adafruitio_00_publish/config.h
+
 /************************** Configuration ***********************************/
 
 // edit the config.h tab and enter your Adafruit IO credentials
